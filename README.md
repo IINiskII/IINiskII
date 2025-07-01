@@ -1,6 +1,6 @@
 # Giuseppe aka Nisk
 
-**` Software Engineer and indie Video Game Developer `**
+**` Software Engineer and indie Video Game Developer and cybersecurity lover`**
 
 <!--
 **IINiskII/IINiskII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
