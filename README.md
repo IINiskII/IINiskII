@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 Hi, I am a third year computer science student at University Of London, Specializing in Machine Learning and Artificial Intelligence.
+I am currently deepening my Mathematics knowledge in addition to studying ml & ai, because its fun.
